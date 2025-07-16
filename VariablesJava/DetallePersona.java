@@ -1,7 +1,7 @@
 package VariablesJava;
 
 public class DetallePersona {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         // Detalle de la persona
         String nombrePersona = "Darwin Sebastian Ortiz Caballero";
         int edadPersona = 22;
